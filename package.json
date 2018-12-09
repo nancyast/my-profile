@@ -10,7 +10,7 @@
   "engines": {
 	"npm": "5.6.0",
 	"node": "8.11.4"
-  }
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
